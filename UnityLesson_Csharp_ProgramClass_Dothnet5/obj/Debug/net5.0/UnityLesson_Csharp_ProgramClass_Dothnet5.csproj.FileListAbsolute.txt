@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\bin\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.exe
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\bin\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.deps.json
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\bin\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.runtimeconfig.json
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\bin\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.runtimeconfig.dev.json
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\bin\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.dll
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\bin\Debug\net5.0\ref\UnityLesson_Csharp_ProgramClass_Dothnet5.dll
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\bin\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.pdb
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.AssemblyInfo.cs
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.dll
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\ref\UnityLesson_Csharp_ProgramClass_Dothnet5.dll
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.pdb
+C:\Users\User\source\repos\UnityLesson_CSharp\UnityLesson_Csharp_ProgramClass_Dothnet5\obj\Debug\net5.0\UnityLesson_Csharp_ProgramClass_Dothnet5.genruntimeconfig.cache
